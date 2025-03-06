@@ -2,19 +2,7 @@
 #COMENTARIO featureDRG
 #COMENTARIO2
 ---
-## Using Tech:
-
-* Php
-* JavaScript
-* MySql
-* JQuery
-* Ajax
-* Bootstarp
-* HTML5
-* CSS3
-
-
----
+## Using Tech
 #### Watch Demo : https://www.youtube.com/watch?v=ReipY-Eg9YY
 ---
 ## Features
@@ -36,3 +24,4 @@
 - Website - [Mohaiminur](https://mohaiminur.ml)
 
 ---
+
