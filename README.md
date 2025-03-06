@@ -1,3 +1,5 @@
+Miguel Angel Hornos - Colaborador
+
 # laundry management system
 #COMENTARIO featureDRG
 #COMENTARIO2
@@ -12,9 +14,7 @@
 *	You can generate of whole or specific report
 *	You can change password and can logout
 
-
 ---
-
 
 ## Author Info
 - Linkedin- [@Mohaiminur](https://www.linkedin.com/in/mohaiminur/)
